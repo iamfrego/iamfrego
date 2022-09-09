@@ -2,7 +2,7 @@
 
 ### Social: (u need dark theme)
 
-<a href="https://www.instagram.com/fregopnx/"><img align="left" width="22px" src="https://github.com/iamfrego/iamfrego/blob/main/image/instagram.svg" />
+<a href="https://www.instagram.com/imfrego/"><img align="left" width="22px" src="https://github.com/iamfrego/iamfrego/blob/main/image/instagram.svg" />
 <a href="https://www.linkedin.com/in/mfregonese01/"><img align="left" width="22px" src="https://github.com/iamfrego/iamfrego/blob/main/image/linkedin.svg" />
 <a href="https://twitter.com/mate_freg" target="_blank"><img align="left" width="22px" src="https://github.com/iamfrego/iamfrego/blob/main/image/twitter.svg" />
 
